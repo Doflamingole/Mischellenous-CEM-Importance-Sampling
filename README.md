@@ -1,5 +1,5 @@
 # CEM-Importance sampling
-- Importance sampling is used to optimize naive Monte-carlo sampling used to sample the interest data such as data of high accidental risks
+- Importance sampling(IS) is used to optimize naive Monte-carlo sampling. IS samples the interest data such as data of high accidental risks
 - Paper in E2E-based autnomous driving
   1. [Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation
 ](https://arxiv.org/abs/1811.00145)
